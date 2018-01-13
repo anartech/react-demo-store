@@ -14,26 +14,6 @@ var CheckoutTemplate = {
   customer: {
   name: 'John Doe',
   email: 'john@doe.co'
-  },
-  shipping_address: {
-    first_name: 'John',
-    last_name: 'Doe',
-    line_1: '2nd Floor British India House',
-    line_2: '15 Carliol Square',
-    city: 'Newcastle Upon Tyne',
-    postcode: 'NE1 6UF',
-    county: 'Tyne & Wear',
-    country: 'United Kingdom'
-  },
-  billing_address: {
-    first_name: 'John',
-    last_name: 'Doe',
-    line_1: '2nd Floor British India House',
-    line_2: '15 Carliol Square',
-    city: 'Newcastle Upon Tyne',
-    postcode: 'NE1 6UF',
-    county: 'Tyne & Wear',
-    country: 'United Kingdom'
   }
 }
 var PaymentTemplate = {
